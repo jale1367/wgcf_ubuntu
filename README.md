@@ -21,9 +21,13 @@ sudo chmod +x wgcf
 3 - Cấu hình Warp
 
 sudo -i
+
 cd /etc/wireguard
+
 wgcf register
+
 wgcf generate -p warpplus.conf
+
 exit
 
 4 - Chạy warp
