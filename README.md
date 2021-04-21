@@ -38,6 +38,15 @@ Lưu ý: Nếu dùng ubuntu minimal thì cần cài thêm resolvconf
 
 sudo apt install resovconf
 
+5 - Setup Extension để dễ kích hoạt Warp
+
+https://extensions.gnome.org/extension/3612/wireguard-indicator/
+
+Dùng Firefox để cài
+
+Khi cài xong thì thêm service: wg-quick@warpplus.service
+
+Done
 
 
 
